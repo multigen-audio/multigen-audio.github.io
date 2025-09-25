@@ -1,0 +1,8 @@
+@inproceedings{
+  wang2025the,
+  title={The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio},
+  author={Renhao Wang and Haoran Geng and Tingle Li and Philipp Wu and Feishi Wang and Gopala Anumanchipalli and Trevor Darrell and Boyi Li and Pieter Abbeel and Jitendra Malik and Alexei A Efros},
+  booktitle={9th Annual Conference on Robot Learning},
+  year={2025},
+  url={https://openreview.net/forum?id=a9RXjOt5bU}
+}
